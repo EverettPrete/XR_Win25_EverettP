@@ -1,0 +1,2 @@
+C:\Users\s0560998\Desktop\XR_Win25_EverettP\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\s0560998\Desktop\XR_Win25_EverettP\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

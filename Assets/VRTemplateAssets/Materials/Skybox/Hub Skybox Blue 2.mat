@@ -66,7 +66,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _Exponent: 1
-    - _Exponent1: 9
+    - _Exponent1: 6.13
     - _Exponent2: 9
     - _GlossMapScale: 1
     - _Glossiness: 0.5
@@ -85,8 +85,8 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Color1: {r: 0.6039216, g: 0.80784315, b: 1, a: 0}
-    - _Color2: {r: 0.92156863, g: 0.9843137, b: 1, a: 0}
+    - _Color1: {r: 0.20305268, g: 0.2879372, b: 0.3679245, a: 0}
+    - _Color2: {r: 0.29516736, g: 0.3080901, b: 0.31132078, a: 0}
     - _Color3: {r: 0.4509804, g: 0.4509804, b: 0.4509804, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _UpVector: {r: 0, g: 1, b: 0, a: 0}
